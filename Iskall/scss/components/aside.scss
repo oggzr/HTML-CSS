@@ -1,0 +1,46 @@
+
+
+.list-group {
+	border-radius: 100px;
+
+
+	a {
+		background-color: transparent;
+		color: #B68550;
+		font-size: 17px;
+		border: solid 1px transparent;
+
+		&.page {
+			color: #3973ac;
+		}
+
+	}
+
+	a:hover {
+		background-color: #B68550;
+		color: black;
+	}
+}
+
+.sidebar {
+	background-color: rgba(0,0,0,0.8);
+	font-family: viking;
+	padding-top:25px;
+	border-radius: 20px;
+	height: 250px;
+	//border:solid 1px #B68550;
+	box-shadow:inset 0px 0px 7px -1px #B68550;
+	width: 100;
+
+
+}
+
+.sticky {
+	position: fixed;
+	top: 0;
+	left: 15px;
+	right:84.110526%;
+	//right:84.210526%;
+	//width: 16.6666667;
+}
+

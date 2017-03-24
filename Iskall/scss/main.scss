@@ -1,0 +1,36 @@
+@import "vendors/bootstrap";
+
+@import "general";
+
+@import "header";
+
+@import "section";
+
+@import "components/aside";
+
+@import "components/footer";
+
+@import "components/form";
+
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+main {
+	&.main {
+		background: {
+			image:url('../img/main.jpg');
+			position: center center;
+			size: cover;
+			repeat: no-repeat;
+		}
+		height: 100%;
+		width: 100%;
+		
+	}
+}
+
+
+
