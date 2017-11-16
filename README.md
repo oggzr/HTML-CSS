@@ -1,3 +1,5 @@
 # HTML-CSS
-En statisk sida. Den första hemsidan som jag skapade själv.
-http://oskar.sodacode.io
+
+First school project that i made in our first course.
+
+Its just build with html,css and some jQuery.
